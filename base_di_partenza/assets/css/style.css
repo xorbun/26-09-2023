@@ -111,10 +111,10 @@ svg
   }
   .icon
 {
-  width: 30px;
-  height: 30px;
+  width: 5vh;
+  height: 5vh;
+  font-size: 2.5vh;
   text-align: center;
- 
   border: 1px solid black;
   background-color: gba(0,0,0,0.3);
   position: fixed;
@@ -129,12 +129,12 @@ svg
 }
 #icon2
 {
-  top: 15%;
+  top: 20%;
   color:  blue;
 }
 #icon3
 {
-  bottom: 10%;
+  bottom: 5%;
   color: red;
 }
 }
