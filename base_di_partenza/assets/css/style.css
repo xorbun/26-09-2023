@@ -13,6 +13,8 @@ body {
   display: inline-block;
   width: 9vh;
   height: 9vh;
+  text-align: center;
+  font-size: 4.5vh;
   border: 4px solid white;
   background-color: white;
   border-radius: 8px;
@@ -20,6 +22,7 @@ body {
   right: 0;
   bottom: 10%;
   margin-top: 1em;
+  z-index: 1000;
 }
 
 #icon1
