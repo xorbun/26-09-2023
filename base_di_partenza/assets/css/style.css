@@ -65,20 +65,22 @@ header {
   top: 0px;
   z-index: 1000;
 }
-.baffo
+
+.boh
 {
   position: relative;
   top: auto;
   right: auto;
   left: auto;
   bottom: auto;
+  
 }
 svg
 {
   position: absolute;
-  bottom: 1em;
-  left: 0.4em;
-  width: auto;
+  bottom: 12em;
+  left: 1em;
+  width: 250px;
   opacity: 0.8;
   
 }
@@ -92,20 +94,21 @@ svg
   {
     padding: 1em;
   }
-  .baffo
+  .boh
   {
     position: relative;
     top: 0em;
     right: 0em;
     left: 0em;
     bottom: 0em;
+    white-space: nowrap;
   }
   svg
   {
     position: absolute;
-    bottom: 1em;
-    left: 23em;
-    width: auto;
+    bottom: 24em;
+    left: 26em;
+    width: 590px;
     opacity: 0.8;
     
   }
