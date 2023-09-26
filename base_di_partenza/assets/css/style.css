@@ -21,6 +21,7 @@ body {
   bottom: 10%;
   margin-top: 1em;
 }
+
 #icon1
 {
   bottom: 30%;
@@ -119,15 +120,19 @@ svg
 
 #icon1
 {
-  bottom: 180px;
+  bottom: 30%;
+  color: blue;
+ 
 }
 #icon2
 {
-  bottom: 120px;
+  bottom: 20%;
+  color:  blue;
 }
 #icon3
 {
-  bottom: 60px;
+  bottom: 10%;
+  color: red;
 }
 }
 
